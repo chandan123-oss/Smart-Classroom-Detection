@@ -1,0 +1,6 @@
+{
+  "name": "Smart Classroom Attention Detection System",
+  "description": "An industry-level AI & Computer Vision EdTech dashboard for real-time classroom attention detection, engagement scoring, face orientation tracking, and ML analytics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
